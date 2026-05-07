@@ -1,2 +1,2 @@
 # cps
-https://cliftonpublicschool.lovable.app/
+https://cliftonpublicschool.github.com/
